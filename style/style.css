@@ -1,0 +1,28 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  /* color: white; */
+  /* background-color: black; */
+}
+.font-heading1 {
+  font-size: 1.8rem;
+  text-align: center;
+}
+.font-heading2 {
+  font-size: 1.3rem;
+  text-align: center;
+}
+.center-this-form {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.center-this-form .input-field {
+  margin-inline: auto;
+}
+.add-margin-y {
+  margin: 1.5rem auto;
+}
